@@ -1,10 +1,11 @@
 <?php
 /**
  * @author		Jesse Boyer <contact@jream.com>
+ 
  * @copyright	Copyright (C), 2011-12 Jesse Boyer
  * @license		GNU General Public License 3 (http://www.gnu.org/licenses/)
  *				Refer to the LICENSE file distributed within the package.
- *
+ * @updated by puneetxp puneetsharma9@hotmail.com
  * @link		http://jream.com
  *
  * @internal	Inspired by Klein @ https://github.com/chriso/klein.php
